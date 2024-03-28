@@ -1,0 +1,6 @@
+{
+  "MaxCracking": 1000.0,
+  "MinPerCrack": 0.15,
+  "MaxPerCrack": 0.5,
+  "KgPerCrack": 0.0
+}

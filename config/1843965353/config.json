@@ -1,0 +1,601 @@
+{
+  "ConsoleEnabled": true,
+  "ShowConfig": false,
+  "ShowDisabled": true,
+  "ShowNotCompatible": false,
+  "ShowOutOfDate": true,
+  "AutoUpdater": true,
+  "HideLocalMods": false,
+  "HideSteamMods": false,
+  "ModUpdatesLog": [
+    {
+      "ModId": "1918000273",
+      "Version": 1645431408,
+      "UpdateDate": "2022-02-24T22:06:24.5030758-05:00",
+      "NotOnSteam": false
+    },
+    {
+      "ModId": "1843965353",
+      "Version": 1646285018,
+      "UpdateDate": "2022-03-04T08:06:20.9407226-05:00",
+      "NotOnSteam": false
+    },
+    {
+      "ModId": "2119931768",
+      "Version": 1670660415,
+      "UpdateDate": "2022-12-14T17:41:23.5965583-05:00",
+      "NotOnSteam": false
+    },
+    {
+      "ModId": "1938747693",
+      "Version": 1686115234,
+      "UpdateDate": "2023-09-08T14:45:26.5416335-04:00",
+      "NotOnSteam": false
+    },
+    {
+      "ModId": "2755454101",
+      "Version": 1688789526,
+      "UpdateDate": "2023-09-08T14:45:27.5551104-04:00",
+      "NotOnSteam": false
+    },
+    {
+      "ModId": "1913589787",
+      "Version": 1677341383,
+      "UpdateDate": "2023-09-08T14:45:28.2406523-04:00",
+      "NotOnSteam": false
+    },
+    {
+      "ModId": "2542160819",
+      "Version": 1681089700,
+      "UpdateDate": "2023-09-08T14:45:29.5469098-04:00",
+      "NotOnSteam": false
+    },
+    {
+      "ModId": "2229356245",
+      "Version": 1687383610,
+      "UpdateDate": "2023-09-08T14:45:30.261822-04:00",
+      "NotOnSteam": false
+    },
+    {
+      "ModId": "1897096779",
+      "Version": 1682322337,
+      "UpdateDate": "2023-09-08T14:45:31.4295645-04:00",
+      "NotOnSteam": false
+    },
+    {
+      "ModId": "1872885565",
+      "Version": 1678139856,
+      "UpdateDate": "2023-09-08T14:45:32.1117334-04:00",
+      "NotOnSteam": false
+    },
+    {
+      "ModId": "1874600082",
+      "Version": 1680462516,
+      "UpdateDate": "2023-09-08T14:45:32.7524652-04:00",
+      "NotOnSteam": false
+    },
+    {
+      "ModId": "1717999057",
+      "Version": 1677349627,
+      "UpdateDate": "2023-09-08T14:45:33.498434-04:00",
+      "NotOnSteam": false
+    },
+    {
+      "ModId": "2875363453",
+      "Version": 1686851457,
+      "UpdateDate": "2023-09-08T14:45:35.5407183-04:00",
+      "NotOnSteam": false
+    },
+    {
+      "ModId": "1872111766",
+      "Version": 1691819019,
+      "UpdateDate": "2023-09-08T14:45:36.1241818-04:00",
+      "NotOnSteam": false
+    },
+    {
+      "ModId": "2499782382",
+      "Version": 1692310714,
+      "UpdateDate": "2023-09-08T14:45:36.7709973-04:00",
+      "NotOnSteam": false
+    },
+    {
+      "ModId": "2874440740",
+      "Version": 1691703139,
+      "UpdateDate": "2023-09-08T14:45:37.4360494-04:00",
+      "NotOnSteam": false
+    },
+    {
+      "ModId": "2618339179",
+      "Version": 1709373162,
+      "UpdateDate": "2024-03-02T21:57:59.0704704-05:00",
+      "NotOnSteam": false
+    },
+    {
+      "ModId": "2722663035",
+      "Version": 1703168472,
+      "UpdateDate": "2024-03-02T21:57:59.6917025-05:00",
+      "NotOnSteam": false
+    },
+    {
+      "ModId": "1960947963",
+      "Version": 1703814077,
+      "UpdateDate": "2024-03-02T21:58:00.3588188-05:00",
+      "NotOnSteam": false
+    },
+    {
+      "ModId": "2539984678",
+      "Version": 1703321351,
+      "UpdateDate": "2024-03-02T21:58:01.1416254-05:00",
+      "NotOnSteam": false
+    },
+    {
+      "ModId": "2348079481",
+      "Version": 1700174509,
+      "UpdateDate": "2024-03-02T21:58:02.7445454-05:00",
+      "NotOnSteam": false
+    },
+    {
+      "ModId": "2567122431",
+      "Version": 1709107401,
+      "UpdateDate": "2024-03-02T21:58:03.2796786-05:00",
+      "NotOnSteam": false
+    },
+    {
+      "ModId": "2018291283",
+      "Version": 1709111606,
+      "UpdateDate": "2024-03-02T21:58:03.8166269-05:00",
+      "NotOnSteam": false
+    },
+    {
+      "ModId": "2135682628",
+      "Version": 1709876153,
+      "UpdateDate": "2024-03-08T23:14:03.5468238-05:00",
+      "NotOnSteam": false
+    },
+    {
+      "ModId": "1873476551",
+      "Version": 1710697912,
+      "UpdateDate": "2024-03-21T21:45:20.8961844-04:00",
+      "NotOnSteam": false
+    },
+    {
+      "ModId": "3024728464",
+      "Version": 1711574613,
+      "UpdateDate": "2024-03-28T00:22:16.5936551-04:00",
+      "NotOnSteam": false
+    },
+    {
+      "ModId": "3196698830",
+      "Version": 1711402245,
+      "UpdateDate": "2024-03-28T00:22:17.7166795-04:00",
+      "NotOnSteam": false
+    }
+  ],
+  "SteamIdToAuthorInfo": {
+    "76561197993782918": {
+      "Id": 76561197993782918,
+      "Name": "Swistak",
+      "RealName": null,
+      "AvatarIcon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/3e/3e0e8a928d57c21e8b5e240f3faac8dc65b8b644.jpg"
+    },
+    "76561198041972389": {
+      "Id": 76561198041972389,
+      "Name": "quantumflux",
+      "RealName": "Yaharrgh Shrubthedeck",
+      "AvatarIcon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/25/258204f2d5425aa8954cac4a832f142e32632b62.jpg"
+    },
+    "76561198263471888": {
+      "Id": 76561198263471888,
+      "Name": "Pholith",
+      "RealName": "Vincent",
+      "AvatarIcon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/60/6087318666733861c3f92829be525cf48f4846f6.jpg"
+    },
+    "76561198113833876": {
+      "Id": 76561198113833876,
+      "Name": "trevice",
+      "RealName": null,
+      "AvatarIcon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/52/5215bd632807302992d9e5b02a91658f1ef416dd.jpg"
+    },
+    "76561198076395653": {
+      "Id": 76561198076395653,
+      "Name": "nightinggale",
+      "RealName": null,
+      "AvatarIcon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/fe/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb.jpg"
+    },
+    "76561198076768290": {
+      "Id": 76561198076768290,
+      "Name": "Cairath",
+      "RealName": null,
+      "AvatarIcon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/73/73463f9954754a3883dd723aaaf57f08775ecaf6.jpg"
+    },
+    "76561198030334258": {
+      "Id": 76561198030334258,
+      "Name": "Mantakus",
+      "RealName": null,
+      "AvatarIcon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/fe/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb.jpg"
+    },
+    "76561197969625099": {
+      "Id": 76561197969625099,
+      "Name": "chromiumboy",
+      "RealName": "",
+      "AvatarIcon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/a5/a549f20496cf28c22200d52955d365feafaf0198.jpg"
+    },
+    "76561197980278821": {
+      "Id": 76561197980278821,
+      "Name": "rlane",
+      "RealName": "",
+      "AvatarIcon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/0c/0cdc7cb174ff2fa6302c7e8844de84e7fb0e6fae.jpg"
+    },
+    "0": null,
+    "76561198019522099": {
+      "Id": 76561198019522099,
+      "Name": "egladil",
+      "RealName": null,
+      "AvatarIcon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/8a/8a5161339c2b97bcc70909e6ff60e309a6981589.jpg"
+    },
+    "76561198860971022": {
+      "Id": 76561198860971022,
+      "Name": "ID1110",
+      "RealName": "",
+      "AvatarIcon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/34/34d4cc1df71f2dc02d7c04495214be93fb4567db.jpg"
+    },
+    "76561197969822695": {
+      "Id": 76561197969822695,
+      "Name": "Hex",
+      "RealName": "",
+      "AvatarIcon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/3d/3dea0e500ecf2fc413f4d444e780593df62c66a6.jpg"
+    },
+    "76561198025154321": {
+      "Id": 76561198025154321,
+      "Name": "Stephen",
+      "RealName": null,
+      "AvatarIcon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/fe/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb.jpg"
+    },
+    "76561198077668782": {
+      "Id": 76561198077668782,
+      "Name": "Skyrunner",
+      "RealName": "",
+      "AvatarIcon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/8d/8d72baca083b3f8e4fed47d3f087397ab2d0414d.jpg"
+    },
+    "76561198141227641": {
+      "Id": 76561198141227641,
+      "Name": "保持包吃饱",
+      "RealName": "Binfis",
+      "AvatarIcon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/2e/2eb5d4d88bc00bb43bfc59cddc6fac525cda4b01.jpg"
+    },
+    "76561197966325919": {
+      "Id": 76561197966325919,
+      "Name": "mihe",
+      "RealName": "",
+      "AvatarIcon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/avatars/37/3737c052ae20b9bbe7223b1b768622fcc12e190f.jpg"
+    },
+    "76561198093622539": {
+      "Id": 76561198093622539,
+      "Name": "Lily",
+      "RealName": "Lilith, and Primalflower too",
+      "AvatarIcon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/avatars/d4/d48089c93ed612f68700fd31094b96172f2d4a39.jpg"
+    },
+    "76561198082968733": {
+      "Id": 76561198082968733,
+      "Name": "Ony",
+      "RealName": "Anna",
+      "AvatarIcon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/avatars/35/35ad544a9d04fb18be989bd964c8f47fa4a3d0bd.jpg"
+    },
+    "76561198044590606": {
+      "Id": 76561198044590606,
+      "Name": "Aze",
+      "RealName": "",
+      "AvatarIcon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/avatars/f9/f9b8166eeed29178434390d02b0a9f8a91f577da.jpg"
+    },
+    "76561198385517648": {
+      "Id": 76561198385517648,
+      "Name": "沉浮",
+      "RealName": "",
+      "AvatarIcon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/avatars/23/231af9edf8e7fb96a05a2f31bbc5ab4dbf9827bb.jpg"
+    },
+    "76561198078689316": {
+      "Id": 76561198078689316,
+      "Name": "TagnumElite",
+      "RealName": "Tagan",
+      "AvatarIcon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/avatars/5a/5a8e7ee8f6f26e1dbcbbdcc973234f3e1665086b.jpg"
+    },
+    "76561197984640272": {
+      "Id": 76561197984640272,
+      "Name": "Heinermann",
+      "RealName": "Adam Heinermann",
+      "AvatarIcon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/avatars/93/932e87e6d05e038061328154868bab4865fdf969.jpg"
+    },
+    "76561198005148713": {
+      "Id": 76561198005148713,
+      "Name": "Davkas",
+      "RealName": "Davide",
+      "AvatarIcon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/avatars/7b/7b01fa6e7191b8749d22c0a3b0cb55be47df5113.jpg"
+    },
+    "76561198001288941": {
+      "Id": 76561198001288941,
+      "Name": "Guinaro",
+      "RealName": "Jurgen Roegies",
+      "AvatarIcon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/avatars/87/874c1f20b3b20e6e9baaf405026ff82c58ffe4d9.jpg"
+    },
+    "76561198140117859": {
+      "Id": 76561198140117859,
+      "Name": "宫野志保的猫",
+      "RealName": "赵普",
+      "AvatarIcon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/avatars/b8/b8e5dabc8838fc4e18e63e254e89cda943eae74f.jpg"
+    },
+    "76561197975629728": {
+      "Id": 76561197975629728,
+      "Name": "Romen",
+      "RealName": null,
+      "AvatarIcon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/avatars/24/24f5682c33e00598f29e6de9bc1e161af2322dbc.jpg"
+    },
+    "76561198210275603": {
+      "Id": 76561198210275603,
+      "Name": "asquared31415",
+      "RealName": null,
+      "AvatarIcon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/avatars/fe/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb.jpg"
+    },
+    "76561198416214982": {
+      "Id": 76561198416214982,
+      "Name": "退休老技师",
+      "RealName": "",
+      "AvatarIcon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/avatars/25/2505331f0449614b558ebeb969b536a3b7e4d0b9.jpg"
+    },
+    "76561198341359629": {
+      "Id": 76561198341359629,
+      "Name": "Sanchozz",
+      "RealName": "Alexandr",
+      "AvatarIcon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/avatars/55/55e4dd01e47940601a27405708fb0895d98c0d65.jpg"
+    },
+    "76561198021013998": {
+      "Id": 76561198021013998,
+      "Name": "gbdickinson",
+      "RealName": "",
+      "AvatarIcon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/avatars/99/99039230948c91c61804c7c91fe2ae5fb0eee281.jpg"
+    },
+    "76561198087761046": {
+      "Id": 76561198087761046,
+      "Name": "iPoNet™",
+      "RealName": "ohmcodes",
+      "AvatarIcon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/avatars/3f/3fa0d7bb3749475237faa417d1c2b5c1c1e3f1c5.jpg"
+    },
+    "76561198201961252": {
+      "Id": 76561198201961252,
+      "Name": "vikpr",
+      "RealName": null,
+      "AvatarIcon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/avatars/8e/8e481bfd4b5ceae7707cdd4207e519df8c94327f.jpg"
+    },
+    "76561197964255295": {
+      "Id": 76561197964255295,
+      "Name": "RoJ",
+      "RealName": "Roger",
+      "AvatarIcon": "https://avatars.akamai.steamstatic.com/598a60b0b90acf05a00dd08877a37e8a0fdd2ce8.jpg"
+    },
+    "76561199075424056": {
+      "Id": 76561199075424056,
+      "Name": "shelena_malk",
+      "RealName": "",
+      "AvatarIcon": "https://avatars.akamai.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb.jpg"
+    },
+    "76561198007292071": {
+      "Id": 76561198007292071,
+      "Name": "PsyKo",
+      "RealName": null,
+      "AvatarIcon": "https://avatars.akamai.steamstatic.com/ab67c0ff34abe9871c3cf57c221bbcd14eceacf5.jpg"
+    },
+    "76561198865727314": {
+      "Id": 76561198865727314,
+      "Name": "echo_ol",
+      "RealName": null,
+      "AvatarIcon": "https://avatars.cloudflare.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb.jpg"
+    },
+    "76561198049698638": {
+      "Id": 76561198049698638,
+      "Name": "Sr.Melancia",
+      "RealName": null,
+      "AvatarIcon": "https://avatars.akamai.steamstatic.com/67f41180799953d07e6f89bd8ca5bfb8b25d9b2b.jpg"
+    },
+    "76561198269206821": {
+      "Id": 76561198269206821,
+      "Name": "Onerepublic",
+      "RealName": "Dmitrij",
+      "AvatarIcon": "https://avatars.akamai.steamstatic.com/09778f597a065210869f034fa97deb94723b0ead.jpg"
+    },
+    "76561198007508921": {
+      "Id": 76561198007508921,
+      "Name": "Diego Dela Vega",
+      "RealName": null,
+      "AvatarIcon": "https://avatars.cloudflare.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb.jpg"
+    },
+    "76561198079671938": {
+      "Id": 76561198079671938,
+      "Name": "pether.pg",
+      "RealName": "Paweł",
+      "AvatarIcon": "https://avatars.akamai.steamstatic.com/b8c0fe201696f1a7f9ca280392c5c00691058ca1.jpg"
+    },
+    "76561198431638450": {
+      "Id": 76561198431638450,
+      "Name": "吐泡泡的小鱼",
+      "RealName": "",
+      "AvatarIcon": "https://avatars.cloudflare.steamstatic.com/5d283e2812711ff86f986931fb20129b810761e7.jpg"
+    },
+    "76561198404550652": {
+      "Id": 76561198404550652,
+      "Name": "嘉然今天拉什么",
+      "RealName": "cqz",
+      "AvatarIcon": "https://avatars.cloudflare.steamstatic.com/a6f6a9c1958fd89781c4ddd94e79ce96bd231275.jpg"
+    },
+    "76561198144093217": {
+      "Id": 76561198144093217,
+      "Name": "Aki",
+      "RealName": "",
+      "AvatarIcon": "https://avatars.cloudflare.steamstatic.com/f69d803dd07bfc7eacb3e9ae44f1d570ada47975.jpg"
+    },
+    "76561197963528894": {
+      "Id": 76561197963528894,
+      "Name": "Alpha",
+      "RealName": "Mike",
+      "AvatarIcon": "https://avatars.cloudflare.steamstatic.com/73077f057ca6059935a02da13b3129a92d2e58ed.jpg"
+    },
+    "76561198303713591": {
+      "Id": 76561198303713591,
+      "Name": "Emphasia",
+      "RealName": null,
+      "AvatarIcon": "https://avatars.cloudflare.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb.jpg"
+    },
+    "76561198180851638": {
+      "Id": 76561198180851638,
+      "Name": "RedstoneParadox",
+      "RealName": "",
+      "AvatarIcon": "https://avatars.cloudflare.steamstatic.com/0ed9925db1bc029820dd5077a75ddf9e461941eb.jpg"
+    },
+    "76561197966245330": {
+      "Id": 76561197966245330,
+      "Name": "Valsazaar",
+      "RealName": null,
+      "AvatarIcon": "https://avatars.cloudflare.steamstatic.com/99668fc95e7a7c4dcd21666d0d291bac7bfe241c.jpg"
+    },
+    "76561198037351157": {
+      "Id": 76561198037351157,
+      "Name": "Barley",
+      "RealName": "",
+      "AvatarIcon": "https://avatars.cloudflare.steamstatic.com/7bba4a242afdcb5fc4f7965251adba5ed145833a.jpg"
+    },
+    "76561198128737740": {
+      "Id": 76561198128737740,
+      "Name": "Neodymium",
+      "RealName": "Takao Inako",
+      "AvatarIcon": "https://avatars.cloudflare.steamstatic.com/d54bbd1cfbe2d48511f2b3e1dbcdc7bbd064f8f9.jpg"
+    },
+    "76561198032518871": {
+      "Id": 76561198032518871,
+      "Name": "INFLAMES",
+      "RealName": "",
+      "AvatarIcon": "https://avatars.cloudflare.steamstatic.com/3a2e1b38eacb234b5233a31ea9ef3b3e6ebc7ac5.jpg"
+    },
+    "76561197972363147": {
+      "Id": 76561197972363147,
+      "Name": "Bummins",
+      "RealName": "Palka",
+      "AvatarIcon": "https://avatars.cloudflare.steamstatic.com/9252c5924e5aac5fcb3f6754ef2728db737ff493.jpg"
+    },
+    "76561198009412110": {
+      "Id": 76561198009412110,
+      "Name": "Fair",
+      "RealName": "Mads Skovgaard",
+      "AvatarIcon": "https://avatars.akamai.steamstatic.com/9187789a7d76b41fda73045dbd70945de0baad1a.jpg"
+    },
+    "76561198105938076": {
+      "Id": 76561198105938076,
+      "Name": "Sgt_Imalas",
+      "RealName": "",
+      "AvatarIcon": "https://avatars.akamai.steamstatic.com/30917a769765e0ea2d291649473cc3afa789e3d5.jpg"
+    },
+    "76561198068894559": {
+      "Id": 76561198068894559,
+      "Name": "MG",
+      "RealName": null,
+      "AvatarIcon": "https://avatars.akamai.steamstatic.com/fccfa8baf7d16caff5c44d1d2bb3ae5b6588d473.jpg"
+    }
+  },
+  "ModIdToAuthorId": {
+    "1758223146": "76561198030334258",
+    "1717463209": "76561198076768290",
+    "1755526176": "76561198030334258",
+    "1726843630": "76561197980278821",
+    "1748601256": "76561197969625099",
+    "1731454485": "76561197969625099",
+    "1729316811": "76561198030334258",
+    "1737903327": "76561197993782918",
+    "1706181611": "76561198076768290",
+    "1742045344": "76561198076395653",
+    "1731326363": "76561197969625099",
+    "1725950119": "76561198076768290",
+    "1714094338": "76561198113833876",
+    "1728587598": "76561197980278821",
+    "1732534140": "76561198076768290",
+    "1732806087": "76561197969625099",
+    "1729816134": "76561198076768290",
+    "1708809748": "76561198041972389",
+    "1717999057": "76561198263471888",
+    "1713359495": "76561198113833876",
+    "1735550356": "76561197969625099",
+    "1413765966": "76561198019522099",
+    "1730968929": "76561197969822695",
+    "2103878695": "76561198860971022",
+    "2135682628": "76561198025154321",
+    "1934714769": "76561198141227641",
+    "1875446986": "76561198077668782",
+    "1843965353": "76561198082968733",
+    "1897096779": "76561198082968733",
+    "1872111766": "76561198082968733",
+    "1946209956": "76561198093622539",
+    "1852314427": "76561197966325919",
+    "1722760223": "76561197984640272",
+    "1872885565": "76561198044590606",
+    "1801004057": "76561198078689316",
+    "1860778068": "76561198077668782",
+    "1918000273": "76561198025154321",
+    "1874600082": "76561198025154321",
+    "2051059692": "76561198005148713",
+    "1837070773": "76561198001288941",
+    "1858540387": "76561198385517648",
+    "1934481273": "76561197969822695",
+    "2018469750": "76561198140117859",
+    "2093080114": "76561198210275603",
+    "1726701192": "0",
+    "1455863322": "0",
+    "1411755524": "0",
+    "2644716140": "76561198416214982",
+    "2539984678": "76561198341359629",
+    "2229356245": "76561197975629728",
+    "2018291283": "76561198025154321",
+    "2542160819": "76561198021013998",
+    "2126548651": "76561197975629728",
+    "2119931768": "76561198087761046",
+    "2567122431": "76561198025154321",
+    "2094022117": "76561198201961252",
+    "1873476551": "76561198077668782",
+    "1913589787": "76561197964255295",
+    "1938747693": "76561198025154321",
+    "2755454101": "76561199075424056",
+    "2618339179": "76561198007292071",
+    "2537508393": "76561198865727314",
+    "2511882154": "76561198049698638",
+    "2546683516": "76561198269206821",
+    "2874440740": "76561198007508921",
+    "2348079481": "76561198079671938",
+    "2861126557": "76561198431638450",
+    "2722663035": "76561198404550652",
+    "2875363453": "76561198144093217",
+    "2684601534": "76561198404550652",
+    "2377629562": "76561197963528894",
+    "1820638089": "76561198303713591",
+    "1822160024": "76561198076768290",
+    "1960947963": "76561198044590606",
+    "2499782382": "76561198180851638",
+    "2693498411": "76561197966245330",
+    "2679326313": "76561198037351157",
+    "2997380964": "76561198128737740",
+    "2998869133": "76561198128737740",
+    "2998905657": "76561198128737740",
+    "2996322065": "76561198128737740",
+    "2997898111": "76561198128737740",
+    "1833427385": "76561198082968733",
+    "3024728464": "76561198032518871",
+    "3144715617": "76561197972363147",
+    "1868495239": "76561198093622539",
+    "1845579729": "76561198009412110",
+    "3021827424": "76561198105938076",
+    "1766302971": "76561198076768290",
+    "3096204182": "76561198263471888",
+    "3164212090": "76561198044590606",
+    "3121297403": "76561198105938076",
+    "3196698830": "76561198105938076",
+    "2557243691": "76561198068894559",
+    "2612332708": "76561198079671938",
+    "3120193648": "76561198105938076",
+    "3172734005": "76561198105938076",
+    "3088461193": "76561198001288941"
+  }
+}

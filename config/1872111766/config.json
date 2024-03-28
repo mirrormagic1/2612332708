@@ -1,0 +1,17 @@
+{
+  "ConsoleEnabled": true,
+  "ShowConfig": true,
+  "FavoriteResources": [
+    "Dirt",
+    "Carbon",
+    "Polypropylene",
+    "Copper",
+    "Sand",
+    "GoldAmalgam",
+    "Steel",
+    "Lead",
+    "BasicSingleHarvestPlantSeed",
+    "Algae"
+  ],
+  "ShowBackground": false
+}
